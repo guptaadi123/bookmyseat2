@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989848374195",
+    "firebase_url": "https://bookmyseat-fc3cf.firebaseio.com",
+    "project_id": "bookmyseat-fc3cf",
+    "storage_bucket": "bookmyseat-fc3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989848374195:android:4d32ebad4be82a70bcd9c6",
+        "android_client_info": {
+          "package_name": "com.example.bookmyseat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989848374195-6vndqcjgib73fnrn96vqpbkr807q68ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgYQ-dcmYR0j37l-ST1dR5L__P35yOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989848374195-6vndqcjgib73fnrn96vqpbkr807q68ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
